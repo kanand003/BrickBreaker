@@ -9,8 +9,7 @@
 #include <algorithm>
 #include <sstream>
 
-#include <irrKlang.h>
-using namespace irrklang;
+
 
 #include "game.h"
 #include "resource_manager.h"
